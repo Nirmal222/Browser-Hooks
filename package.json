@@ -1,0 +1,14 @@
+{
+  "name": "browser-window-hooks",
+  "version": "1.0.0",
+  "description": "A package of react custom hooks to handle Browser Real time behaviour",
+  "main": ".src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^17.0.0"
+  },
+  "author": "G Nirmal Kumar",
+  "license": "ISC"
+}
